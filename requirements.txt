@@ -1,0 +1,9 @@
+Flask==2.0.1
+moviepy
+openai-whisper
+gunicorn==20.1.0
+google-cloud-speech==2.8.0
+moviepy==1.0.3
+pydub==0.25.1
+ffmpeg-python==0.2.0
+google-cloud-storage==1.42.3
